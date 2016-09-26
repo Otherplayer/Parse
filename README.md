@@ -1,6 +1,6 @@
 # Parse
 
-## Parse是专为移动APP服务的云计算平台，它本身提供Restful的service及相关API让app直接访问服务器，进行增删改查数据。
+## Parse是专为移动APP服务的云计算平台，它本身提供Restful的service及相关API让app直接访问服务器,进行数据同步，社交分享，云端存储等操作。
 
 Parse offers a cloud backend service for mobile apps. This lets developers focus on on creating an awesome app and user experience without having to worry about managing server maintenance or infrastructure.
 
