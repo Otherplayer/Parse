@@ -32,5 +32,20 @@ The simplest way to start sending notifications is using channels. This allows y
 SUBSCRIBING TO CHANNELS
 
 A channel is identified by a string that starts with a letter and consists of alphanumeric characters, underscores, and dashes. It doesn’t need to be explicitly created before it can be used and each Installation can subscribe to any number of channels at a time.
+
+### Config
+
+Config is a way to configure your applications remotely by storing a single configuration object on Parse. It enables you to add things like feature gating or a simple “Message of the Day”. To start using PFConfig you need to add a few key/value pairs (parameters) to your app on the Parse Config Dashboard.
+
+
+### Analytics
+
+Parse provides a number of hooks for you to get a glimpse into the ticking heart of your app. We understand that it’s important to understand what your app is doing, how frequently, and when.
+
+Without having to implement any client-side logic, you can view real-time graphs and breakdowns (by device type, Parse class name, or REST verb) of your API Requests in your app’s dashboard and save these graph filters to quickly access just the data you’re interested in.
+
+### User Interface
+
+
 ### ...
 
