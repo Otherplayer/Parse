@@ -24,6 +24,7 @@ Parse allows you to associate real-world latitude and longitude coordinates with
 ### App Extensions
 ### Push Notifications
 There are two ways to send push notifications using Parse: channels and advanced targeting. 
+
 USING CHANNELS
 
 The simplest way to start sending notifications is using channels. This allows you to use a publisher-subscriber model for sending pushes. Devices start by subscribing to one or more channels, and notifications can later be sent to these subscribers. The channels subscribed to by a given Installation are stored in the channels field of the Installation object.
