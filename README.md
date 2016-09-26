@@ -1,7 +1,7 @@
 # [Parse](http://parse.com/)
 
 
-[国内同类型产品](http://www.bmob.cn/)
+[国内同类型产品bmob](http://www.bmob.cn/)
 
 ## Parse是专为移动APP服务的云计算平台，它本身提供Restful的service及相关API让app直接访问服务器,进行数据存储、消息推送及用户管理等操作。
 
@@ -28,11 +28,11 @@ Parse allows you to associate real-world latitude and longitude coordinates with
 ### Push Notifications
 There are two ways to send push notifications using Parse: channels and advanced targeting. 
 
-USING CHANNELS
+ * USING CHANNELS
 
 The simplest way to start sending notifications is using channels. This allows you to use a publisher-subscriber model for sending pushes. Devices start by subscribing to one or more channels, and notifications can later be sent to these subscribers. The channels subscribed to by a given Installation are stored in the channels field of the Installation object.
 
-SUBSCRIBING TO CHANNELS
+ * SUBSCRIBING TO CHANNELS
 
 A channel is identified by a string that starts with a letter and consists of alphanumeric characters, underscores, and dashes. It doesn’t need to be explicitly created before it can be used and each Installation can subscribe to any number of channels at a time.
 
